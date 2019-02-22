@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/S/Documents/docker-k8s-devops-master/chapter7","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}},"virtualbox":{"/home/vagrant/labs":{"guestpath":"/home/vagrant/labs","hostpath":"/Users/S/Documents/docker-k8s-devops-master/chapter7/labs","disabled":false,"__vagrantfile":true}}}
